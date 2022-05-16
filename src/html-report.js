@@ -67,6 +67,7 @@ export function htmlReport(data, opts = {}) {
     'grpc_req_duration',
     'http_req_duration',
     'http_req_waiting',
+    'http_reqs',
     'http_req_connecting',
     'http_req_tls_handshaking',
     'http_req_sending',
